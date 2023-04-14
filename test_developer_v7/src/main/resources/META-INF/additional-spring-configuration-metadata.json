@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "server.path.inquiry-qr",
+    "type": "java.lang.String",
+    "description": "A description for 'server.path.inquiry-qr'"
+  },
+  {
+    "name": "server.path.payment-qr",
+    "type": "java.lang.String",
+    "description": "A description for 'server.path.payment-qr'"
+  },
+  {
+    "name": "server.path.status-qr",
+    "type": "java.lang.String",
+    "description": "A description for 'server.path.status-qr'"
+  }
+]}
